@@ -5,6 +5,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayuhm24&label=Profile%20views&color=0e75b6&style=flat" alt="jayuhm24" /> </p>
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/jaynesh-modi-a44793225/" target="_blank">
+    <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+</p>
+
 <p align="left"> <a href="https://twitter.com/jayneshh10" target="blank"><img src="https://img.shields.io/twitter/follow/jayneshh10?logo=twitter&style=for-the-badge" alt="jayneshh10" /></a> </p>
 
 - 🔭 I’m currently working on **Web development & Coding Skills**
