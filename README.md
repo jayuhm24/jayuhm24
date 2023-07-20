@@ -1,4 +1,3 @@
-https://www.canva.com/design/DAFk8GnWHBA/wHNnsvA2dlfGWP8j1xFjPg/edit?analyticsCorrelationId=5881f131-d1d9-457d-94a6-6bc3a6ff950a
 <h1 align="center">Hi 👋, I'm Jaynesh Modi</h1>
 <h3 align="center">A passionate Web developer & Software Engineer from India</h3>
 <img align="center" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
