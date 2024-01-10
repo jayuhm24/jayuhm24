@@ -17,8 +17,6 @@
 
 - 🌱 I’m currently learning **MERN STACK**
 
-- 🤝 I’m looking for **Seeking my First Job**
-
 - 👨‍💻 All of my projects are available at [https://github.com/jayuhm24](https://github.com/jayuhm24)
 
 - 💬 Ask me about **Web development & Software Development**
