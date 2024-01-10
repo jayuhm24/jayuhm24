@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **jaineshmodi76@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/home](https://drive.google.com/drive/u/0/home)
+- 📄 Know about my experiences [https://drive.google.com/file/d/18R7TN5F-8WtlZff-97OGvFGNHRNphEPF/view?usp=drive_link](https://drive.google.com/file/d/18R7TN5F-8WtlZff-97OGvFGNHRNphEPF/view?usp=drive_link)
 
 - ⚡ Fun fact **I think I am funny**
 
