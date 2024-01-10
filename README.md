@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **Web development & Coding Skills**
 
-- 🌱 I’m currently learning **Javascript, Reactjs & Data Structures**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 🤝 I’m looking for **Seeking my First Job**
 
